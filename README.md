@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Ayushman Tripathi</h1>
 🔭 I’m currently working on JavaScript<br>🌱 I’m currently learning and polishing Frontend and Backend Technologies<br>💬 Ask me about Git, Jenkins, Docker, Kubernetes<br>👨‍💻 All of my projects are available at https://github.com/ayushman-7<br>📄 Know about my experiences https://drive.google.com/file/d/1aHaZKd4jzJABEqHNgAKtU4pAHhN7XjOb/view?usp=sharing<br>📫 How to reach me ayushmantripathi1@gmail.com
 
 
