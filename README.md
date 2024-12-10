@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayushman Tripathi</h1>
-🔭 I’m currently working on Monitoring Tools <br>🌱 I’m currently learning and polishing DevOps Tools and Technologies<br>💬 Ask me about Git, Jenkins, Docker, Kubernetes<br>👨‍💻 All of my projects are available at https://github.com/ayushman-7<br>📄 Know about my experiences https://drive.google.com/file/d/1aHaZKd4jzJABEqHNgAKtU4pAHhN7XjOb/view?usp=sharing<br>📫 How to reach me: <a href="mailto:ayushmantripathi1@gmail.com">ayushmantripathi1@gmail.com</a>
+🔭 I’m currently working on Monitoring Tools <br>🌱 I’m currently learning and polishing DevOps Tools and Technologies<br>💬 Ask me about Git, Jenkins, Docker, Kubernetes<br>👨‍💻 All of my projects are available at https://github.com/ayushman-7<br>📄 Know about my experiences https://drive.google.com/file/d/1A0sMRVrFqSGgDnDSQap7yh-56VPnhTyF/view?usp=drive_link<br>📫 How to reach me: <a href="mailto:ayushmantripathi1@gmail.com">ayushmantripathi1@gmail.com</a>
 
 
 ## 🌐 Socials:
